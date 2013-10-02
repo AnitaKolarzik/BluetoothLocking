@@ -1,3 +1,7 @@
+#Tilen Kavcic
+#27101870
+#1.9.2013
+
 def izracunajOptVsoto(sezStevil):
 	trenutniMax = 0
 	koncniMax = 0
